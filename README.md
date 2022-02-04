@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Pessano</h1>
-<h3 align="center">A passionate and curious fullstack developer from Argentina</h3>
+<h3 align="center">A passionate and curious Full Stack Developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franp-code&label=Profile%20views&color=0e75b6&style=flat" alt="franp-code" /> </p>
 
