@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👨‍💻 All of my projects are available at [porfolio-franp.netlify.com](porfolio-franp.netlify.com)
+- 👨‍💻 Personal website **[franp.dev.ar](https://franp.dev.ar)**
 
 - 📫 How to reach me **franpessano1@gmail.com**
 
