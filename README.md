@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franp-code&label=Profile%20views&color=0e75b6&style=flat" alt="franp-code" /> </p>
 
-- 🔭 I’m currently working on **Hangman Game for Desktop**
-
-- 🌱 I’m currently learning **MongoDB**
+- 🔭 I’m currently working on **Telegram to Notion Bot**
 
 - 👨‍💻 Personal website **[franp.dev.ar](https://franp.dev.ar)**
 
