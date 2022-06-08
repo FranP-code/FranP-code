@@ -7,8 +7,6 @@
 
 - 👨‍💻 Personal website **[franp.dev.ar](https://franp.dev.ar)**
 
-- 📫 How to reach me **franpessano1@gmail.com**
-
 - ⚡ Fun fact **I buyed a guitar to punish my ma**
 
 <h3 align="left">Connect with me:</h3>
