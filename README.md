@@ -46,7 +46,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranP-Code&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 Trophies
+
+### GitHub
 ![](https://github-profile-trophy.vercel.app/?username=FranP-Code&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
+### Alura Latam
+[![Alura latam challenge 1 sprint 1](https://user-images.githubusercontent.com/76450203/173404709-d82dff0a-888c-4570-aa5d-4c89f888fb4d.png)](https://github.com/alura-challenges/challenge-one-encriptador-latam)
+
+[![Alura latam challenge 1 sprint 2](https://user-images.githubusercontent.com/76450203/173405218-f916a89c-1625-49d3-bca4-26810a8a62df.png)](https://github.com/alura-challenges/challenge-one-juego-ahorcado)
 
 ---
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=franp-code&label=Profile%20views&color=0e75b6&style=for-the-badge") -->
