@@ -50,11 +50,16 @@
 ### GitHub
 ![](https://github-profile-trophy.vercel.app/?username=FranP-Code&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-### Alura Latam
-[![Alura latam challenge 1 sprint 1](https://user-images.githubusercontent.com/76450203/173404709-d82dff0a-888c-4570-aa5d-4c89f888fb4d.png)](https://github.com/alura-challenges/challenge-one-encriptador-latam)
+### Alura
 
-[![Alura latam challenge 1 sprint 2](https://user-images.githubusercontent.com/76450203/173405218-f916a89c-1625-49d3-bca4-26810a8a62df.png)](https://github.com/alura-challenges/challenge-one-juego-ahorcado)
+<a width="200"  href="https://github.com/alura-challenges/challenge-one-encriptador-latam">
+    <img width="200" src="https://user-images.githubusercontent.com/76450203/173404709-d82dff0a-888c-4570-aa5d-4c89f888fb4d.png" alt="Alura latam challenge 1 sprint 1">
+</a>
+<a width="200" href="https://github.com/alura-challenges/challenge-one-juego-ahorcado">
+    <img width="200" src="https://user-images.githubusercontent.com/76450203/173405218-f916a89c-1625-49d3-bca4-26810a8a62df.png" alt="Alura latam challenge 1 sprint 2">
+</a>
+
+
 
 ---
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=franp-code&label=Profile%20views&color=0e75b6&style=for-the-badge") -->
 ![Profile Views](https://komarev.com/ghpvc/?username=FranP-Code&style=for-the-badge&color=red)
