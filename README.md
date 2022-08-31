@@ -5,7 +5,7 @@
 
 ---
 
-🔭 I’m currently working on **Telegram to Notion Bot**
+🔭 I’m currently working on **Open Telegram to Notion Bot**
 
 👨‍💻 Personal website **[franp.dev.ar](https://franp.dev.ar)**
 
