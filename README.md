@@ -59,8 +59,9 @@
 <a width="200" href="https://github.com/alura-challenges/challenge-one-juego-ahorcado">
     <img width="200" src="https://user-images.githubusercontent.com/76450203/173405218-f916a89c-1625-49d3-bca4-26810a8a62df.png" alt="Alura latam challenge 1 sprint 2">
 </a>
-
-
+<a width="200" href="https://github.com/alura-challenges/challenge-one-portafolio-latam">
+    <img width="200" src="https://user-images.githubusercontent.com/76450203/194310602-5e056576-fca4-4069-b06b-7131176f998b.png" alt="Alura latam challenge 2 sprint 1">
+</a>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=FranP-Code&style=for-the-badge&color=red)
