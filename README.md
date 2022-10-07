@@ -62,6 +62,10 @@
 <a width="200" href="https://github.com/alura-challenges/challenge-one-portafolio-latam">
     <img width="200" src="https://user-images.githubusercontent.com/76450203/194310602-5e056576-fca4-4069-b06b-7131176f998b.png" alt="Alura latam challenge 2 sprint 1">
 </a>
+<a width="200" href="https://github.com/alura-challenges/challenge-one-alurageek-latam">
+    <img width="200" src="https://user-images.githubusercontent.com/76450203/194550707-7cb30a51-7fd1-42ac-9880-46e2a9196a06.png" alt="Alura latam challenge 2 sprint 2">
+</a>
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=FranP-Code&style=for-the-badge&color=red)
