@@ -9,7 +9,7 @@
 
 👨‍💻 Personal website **[https://franp.site](https://franp.site)**
 
-⚡ Fun fact **I buyed a guitar to punish my ma**
+⚡ Fun fact **I buyed a guitar**
 
 ---
 
