@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on **Open Telegram to Notion Bot**
 
-👨‍💻 Personal website **[https://franp.site](https://franp.site)**
+👨‍💻 Personal website **[https://francisco-pessano.com](https://www.francisco-pessano.com)**
 
 ⚡ Fun fact **I buyed a guitar**
 
